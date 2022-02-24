@@ -1,0 +1,2 @@
+# My-first-data-package
+The dataset and R script in the Data Package is based on the open access article "Menopausal hormone therapy and women’s health: An umbrella review" https://doi.org/10.1371/journal.pmed.1003731
