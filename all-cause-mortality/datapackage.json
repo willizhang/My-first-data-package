@@ -1,0 +1,102 @@
+{
+  "profile": "tabular-data-package",
+  "resources": [
+    {
+      "name": "all-cause-mortality",
+      "path": "All-Cause Mortality.xlsx",
+      "profile": "tabular-data-resource",
+      "schema": {
+        "fields": [
+          {
+            "name": "AuthorOfPaper",
+            "type": "string",
+            "format": "default"
+          },
+          {
+            "name": "YearOfPublication",
+            "type": "integer",
+            "format": "default"
+          },
+          {
+            "name": "CountryOfOrigin",
+            "type": "string",
+            "format": "default"
+          },
+          {
+            "name": "StudyDesign",
+            "type": "string",
+            "format": "default"
+          },
+          {
+            "name": "PhaseOfPrevention",
+            "type": "string",
+            "format": "default"
+          },
+          {
+            "name": "AgeOfParticipants",
+            "type": "number",
+            "format": "default"
+          },
+          {
+            "name": "MenopausalStatus",
+            "type": "string",
+            "format": "default"
+          },
+          {
+            "name": "HRTDefinition",
+            "type": "string",
+            "format": "default"
+          },
+          {
+            "name": "RouteOfAdministration",
+            "type": "string",
+            "format": "default"
+          },
+          {
+            "name": "TrialDuration",
+            "type": "integer",
+            "format": "default"
+          },
+          {
+            "name": "NumberOfEvents_Intervention",
+            "type": "integer",
+            "format": "default"
+          },
+          {
+            "name": "NumberOfInterventionGroup",
+            "type": "integer",
+            "format": "default"
+          },
+          {
+            "name": "NumberOfEvents_Control",
+            "type": "integer",
+            "format": "default"
+          },
+          {
+            "name": "NumberOfControlGroup",
+            "type": "integer",
+            "format": "default"
+          }
+        ]
+      }
+    }
+  ],
+  "name": "my-first-data-package",
+  "title": "My Data Package",
+  "description": "Clinical trials on all-cause mortality and menopausal hormone therapy",
+  "homepage": "https://osf.io/dsy37/",
+  "version": "1.0.0",
+  "contributors": [
+    {
+      "title": "Guo-Qiang",
+      "role": "author"
+    }
+  ],
+  "licenses": [
+    {
+      "name": "CC-BY-4.0",
+      "title": "Creative Commons Attribution 4.0",
+      "path": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  ]
+}

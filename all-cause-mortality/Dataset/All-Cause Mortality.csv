@@ -1,0 +1,47 @@
+AuthorOfPaper;YearOfPublication;CountryOfOrigin;StudyDesign;PhaseOfPrevention;AgeOfParticipants;MenopausalStatus;HRTDefinition;RouteOfAdministration;TrialDuration;NumberOfEvents_Intervention;NumberOfInterventionGroup;NumberOfEvents_Control;NumberOfControlGroup
+Manson a;2013;USA;RCT;Primary;63.3;Postmenopausal;Combined;Oral;216 months;2244;8506;2110;8102
+Manson b;2013;USA;RCT;Primary;63.6;Postmenopausal;Estrogen;Oral;216 months;1505;5310;1630;5429
+Angerer;2000;Germany;RCT;Primary;57.6;Postmenopausal;Combined;Oral;12 months;1;215;0;106
+Arrenbrecht;2002;Netherlands;RCT;Primary;53.5;Postmenopausal;Estrogen;Transdermal;24 months;1;108;0;53
+Binder;2001;USA;RCT;Primary;82.3;Postmenopausal;Any;Oral;9 months;1;41;0;22
+Cherry;2002;UK;RCT;Primary;62.6;Postmenopausal;Estrogen;Oral;24 months;32;513;39;504
+Clarke;2002;UK;RCT;Primary;66.7;Postmenopausal;Any;Transdermal;30.8 months;8;134;3;121
+Fahlen;2013;Sweden;RCT;Primary;57.4;Postmenopausal;Any;Oral;129.6 months;19;188;18;190
+Gallagher;2001;USA;RCT;Primary;71.0;Postmenopausal;Any;Oral;36 months;3;243;2;246
+Guidozzi;1999;South Africa;RCT;Primary;< 59;Postmenopausal;Estrogen;Oral;48 months;32;62;41;68
+Hall;1994;UK;RCT;Primary;56.0;Postmenopausal;Any;Oral/transdermal;24 months;3;100;3;100
+Hall;1998;Sweden;RCT;Primary;59.4;Postmenopausal;Combined;Oral/transdermal;12 months;0;40;1;20
+Herrington (overall);2000;USA;RCT;Primary;65.8;Postmenopausal;Any;Oral;38.4 months;11;204;6;105
+Herrington (1);2000;USA;RCT;Primary;65.8;Postmenopausal;Estrogen;Oral;38.4 months;8;100;6;105
+Herrington (2);2000;USA;RCT;Primary;65.8;Postmenopausal;Combined;Oral;38.4 months;3;104;6;105
+Hodis;2001;USA;RCT;Primary;62.2;Postmenopausal;Estrogen;Oral;24 months;0;111;1;111
+Hodis (overall);2003;USA;RCT;Primary;63.5;Postmenopausal;Any;Oral;39.6 months;5;150;4;76
+Hodis (1);2003;USA;RCT;Primary;63.5;Postmenopausal;Estrogen;Oral;39.6 months;2;76;4;76
+Hodis (2);2003;USA;RCT;Primary;63.5;Postmenopausal;Combined;Oral;39.6 months;3;74;4;76
+Hulley;2002;USA;RCT;Primary;67.0;Postmenopausal;Combined;Oral;81.6 months;261;1380;239;1383
+Komulainen;1999;Finland;RCT;Primary;52.7;Postmenopausal;Combined;Oral;60 months;2;231;1;227
+MacDonald;1994;UK;RCT;Primary;54.0;Postmenopausal;Any;Oral/transdermal;12 months;1;40;1;22
+Lindsay;1976;UK;RCT;Primary;48.0;Postmenopausal;Estrogen;Oral;60 months;1;63;1;57
+Mijatovic;1998;Netherlands;RCT;Primary;54.8;Postmenopausal;Estrogen;Oral;24 months;0;13;1;13
+Mulnard;2000;USA;RCT;Primary;75.0;Postmenopausal;Estrogen;Oral;15 months;2;81;0;39
+Nachtigall;1979;USA;RCT;Primary;55.1;Postmenopausal;Combined;Oral;120 months;3;84;7;84
+Ouyang;2006;USA/Canada;RCT;Primary;64.0;Postmenopausal;Any;Oral;33 months;2;40;4;43
+Os;2000;Norway;RCT;Primary;64.5;Postmenopausal;Any;Oral/transdermal;12 months;2;60;1;58
+Perez-Jaraiz;1996;Spain;RCT;Primary;49.5;Postmenopausal;Combined;Oral/transdermal;12 months;0;26;1;52
+Raz;1993;Israel;RCT;Primary;65.0;Postmenopausal;Estrogen;Intravaginal;8 months;1;50;0;43
+Ravn;1999;USA/UK/Denmark;RCT;Primary;55.0;Postmenopausal;Combined;Oral;48 months;0;110;1;109
+Recker;1999;USA;RCT;Primary;73.6;Postmenopausal;Combined;Oral;42 months;2;64;1;64
+Schierbeck;2012;Denmark;RCT;Primary;49.7;Postmenopausal;Any;Oral;192 months;27;502;40;504
+PEPI (overall);1995;USA;RCT;Primary;56.1;Postmenopausal;Any;Oral;36 months;3;701;0;174
+PEPI (1);1995;USA;RCT;Primary;56.1;Postmenopausal;Estrogen;Oral;36 months;0;175;0;174
+PEPI (2);1995;USA;RCT;Primary;56.1;Postmenopausal;Combined;Oral;36 months;3;526;0;174
+Vickers;2007;UK/Australia/New Zealand;RCT;Primary;63.3;Postmenopausal;Combined;Oral;11.9 months;8;2196;5;2189
+Viscoli;2001;USA;RCT;Primary;71.5;Postmenopausal;Estrogen;Oral;33.6 months;48;337;41;327
+Waters (overall);2002;USA/Canada;RCT;Primary;65.5;Postmenopausal;Any;Oral;33.6 months;14;210;8;213
+Waters (1);2002;USA/Canada;RCT;Primary;65.5;Postmenopausal;Estrogen;Oral;33.6 months;2;60;2;62
+Waters (2);2002;USA/Canada;RCT;Primary;65.5;Postmenopausal;Combined;Oral;33.6 months;2;43;0;45
+Watts;2000;USA;RCT;Primary;51.5;Postmenopausal;Estrogen;Oral;24 months;1;303;0;103
+EPHT ;2006;Estonia;RCT;Primary;58.7;Postmenopausal;Combined;Oral;41.2 months;3;898;4;880
+KEEPS;2012;USA;RCT;Primary;52.7;Postmenopausal;Combined;Oral/transdermal;48 months;1;452;0;275
+ELITE ;2014;USA;RCT;Primary;60.7;Postmenopausal;Any;Oral/intravaginal;57 months;1;323;1;320
+Barakat ;2006;USA;RCT;Primary;57;Postmenopausal;Estrogen;Oral;35.7 months;26;618;19;618
